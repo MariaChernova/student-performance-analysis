@@ -10,13 +10,16 @@ This project is a full-cycle data analysis case study based on a synthetic datas
 - Git (optional, for version control)
 - [Optional] Python/Excel for further analysis
 
-## 👩‍💻 About the Author
-Maria Chernova
-Junior Data Analyst
-
 ## 📝 Notes
 This case study was completed as part of personal portfolio development.
 
 The dataset is synthetic and anonymized.
 
 The project demonstrates SQL, data transformation, BI tools, and data storytelling.
+
+## 👩‍💻 About the Author
+Maria Chernova
+Junior Data Analyst
+
+📬 Contact
+For questions or feedback, feel free to reach out via Telegram @MaCherMe or ma4erme@gmail.com
